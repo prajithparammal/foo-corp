@@ -4,3 +4,4 @@ metadata:
   name: shipping-staging
   labels:
     geo: mylabel
+    env: staging
