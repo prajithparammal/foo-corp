@@ -5,6 +5,7 @@ metadata:
   labels:
     env: prod
     geo: mylabel
+    team: app
   annotations:
     audit: "true"
     
