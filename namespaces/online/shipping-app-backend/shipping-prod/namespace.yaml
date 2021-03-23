@@ -4,5 +4,7 @@ metadata:
   name: shipping-prod
   labels:
     env: prod
+    geo: mylabel
   annotations:
     audit: "true"
+    
